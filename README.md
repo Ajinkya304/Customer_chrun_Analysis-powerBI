@@ -58,4 +58,5 @@ Please do not use or share any sensitive data.
 ---
 
 Thanks for checking out my project! ⭐ If you find this useful, feel free to connect with me or explore my other work on [GitHub](https://github.com/your-username).
+https://github.com/Ajinkya304/Customer_chrun_Analysis-powerBI/blob/main/1%20overview_page.png
 
