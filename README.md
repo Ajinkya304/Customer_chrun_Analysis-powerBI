@@ -39,6 +39,7 @@ The goal of this project is to analyze customer churn trends and help businesses
 
 ---
 
+![Dashboard Screenshot](chrun_dashboard.png)
 
 
 ## 📄 License & Notes
