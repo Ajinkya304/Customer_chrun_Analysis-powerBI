@@ -38,7 +38,7 @@ Below is a quick look at the dashboard.
 ## Chrun Dashboard
 ![Dashboard Screenshot](chrun_dashboard.png)
 ## Customer Risk Analysis report
-![Dashboard Screenshot](Customer_risk_analysis.png)
+![Dashboard Screenshot](Customer_risk_analysis_page.png)
 
 ---
 
