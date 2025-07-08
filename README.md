@@ -30,15 +30,6 @@ The goal of this project is to analyze customer churn trends and help businesses
 
 ---
 
-## 🔍 Dashboard Preview
-
-Below is a quick look at the dashboard.  
-*(Add your screenshot in the `images/` folder and update the file name below.)*
-
-![Dashboard Screenshot](1 overview_page.png)
-
----
-
 ## 🚀 How to Open & Explore
 
 1. Download the `.pbix` file from this repository.
