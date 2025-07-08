@@ -34,7 +34,7 @@ The goal of this project is to analyze customer churn trends and help businesses
 Below is a quick look at the dashboard.  
 
 ## Overwive Pgae
-![Dashboard Screenshot](overwive_page.png)
+![Dashboard Screenshot](overview_page.png)
 ## Chrun Dashboard
 ![Dashboard Screenshot](chrun_dashboard.png)
 ## Customer Risk Analysis report
